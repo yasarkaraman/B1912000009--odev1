@@ -60,7 +60,7 @@ namespace otobüs_rezerve
         {
             if (textBox1.Text == "admin" && textBox2.Text == "123456")
             {
-                Form2 rezerve = new Form2();
+                Form3 rezerve = new Form3();
                 rezerve.Show();
                 this.Hide();
             }
